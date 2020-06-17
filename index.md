@@ -1,6 +1,6 @@
 ## Мобайл хувилбар татах
 
-[![Download Android](https://raw.githubusercontent.com/tamgapoker/tamgapoker.github.io/master/images/android-64.png "Download Android")](https://drive.google.com/file/d/1LhTGZCxJW8nwJo4NsuTXKx-3iWJlhFwy/view?usp=sharing "Download Android")
+[![Download Android](https://raw.githubusercontent.com/tamgapoker/tamgapoker.github.io/master/images/android-64.png "Download Android")](https://drive.google.com/file/d/1LJkfhP9XnPxHYqLKiZ3W-TyJNZaQpS0_/view?usp=sharing "Download Android")
 [![Download iOS](https://raw.githubusercontent.com/tamgapoker/tamgapoker.github.io/master/images/ios-64.png "Download iOS")](http://tamga.club "Download iOS")
 
 ## Desktop хувилбар татах
