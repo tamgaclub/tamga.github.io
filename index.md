@@ -18,6 +18,8 @@
   Дээрхи холбоосоор apk файл татаж авна. Chrome-оор татагдахгүй бол Firefox browser-ээр татаарай.
   My Files -> Download хавтас дотор apk файл татагдсан байна. Суулгахдаа apk дээр дарж INSTALL команд өгнө.
   Settings -> Security -> Unknown sources горим идэвхижүүлсэн байх ёстойг анхаараарай
+  
+  Андройд програм татах линк -> [Програм татах](https://drive.google.com/file/d/1LJkfhP9XnPxHYqLKiZ3W-TyJNZaQpS0_/view?usp=sharing "Download Android")
 
 
 ### iOS дээр суулгах
