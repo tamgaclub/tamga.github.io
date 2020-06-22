@@ -45,5 +45,5 @@
 ### Линукс дээр суулгах
   Харгалзах холбоосоор татаж аваад задлана. TamgaPoker файлыг ажиллуулна.
 
-  Андройд програм татаж авах линк -> [Програм татах](https://drive.google.com/file/d/1S7rnoCoYAkpe357-5TR3oWFVhZ6dkvPT/view?usp=sharing "Download Linux")
+  Линукс програм татаж авах линк -> [Програм татах](https://drive.google.com/file/d/1S7rnoCoYAkpe357-5TR3oWFVhZ6dkvPT/view?usp=sharing "Download Linux")
 
